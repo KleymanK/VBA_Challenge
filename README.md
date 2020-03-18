@@ -63,8 +63,6 @@ End If
 Next y
 Next
 
-End Sub
-
 
 If Cells(x - 1, 1).Value <> Cells(x, 1).Value Then
     
